@@ -1,0 +1,14 @@
+e0e40582a00b7a8b382c3cc88775706b *DESCRIPTION
+2e0075399f4a783107b780ca6242811a *NAMESPACE
+63f057d5ff828405872d8d58e2f83256 *NEWS
+078ad88e9d96ac21bbbd0af7bf9546e7 *R/assert-is-data-uk.R
+c97d77cd2fd567faeb460048e33fdcda *R/imports.R
+72b0cddc54ab0875114dc603458e4af5 *R/is-data-uk.R
+97dc071fcb621d9f8d30e61049bbf8c2 *README.md
+88f3da0edd967a5ecf72d138a73e932b *man/is_uk_car_licence.Rd
+6ce8fb4241e0f8079c2dadd32aa36e74 *man/is_uk_national_insurance_number.Rd
+f18373af332aa471c0f034fb5f747cf7 *man/is_uk_postcode.Rd
+63cfb7ade6b57d2d0a513fc61c8ad621 *man/is_uk_telephone_number.Rd
+7d71f72b6bb0869c26a2afc34cfb5312 *po/R-assertive.data.uk.pot
+dced74025d58335711478d481d3595b8 *tests/testthat.R
+c162b28e776f138c395188ec0b114898 *tests/testthat/test-is-data-uk.R
